@@ -5,11 +5,15 @@ body{
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: grey;
+    border-color: lightgray;
     border-width: 7px;
     width: 11%;
 }
 
-h1, h3 {
+h1 {
+    color: #112D4E;
+}
+
+h3 {
     color: #3F72AF;
 }
